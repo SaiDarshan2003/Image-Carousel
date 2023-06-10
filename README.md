@@ -13,7 +13,8 @@ To create image carousel in react using hooksAssignment.
 5.Edit App.js and enter the HTML code in the return and render.
 
 ## Output:
-https://reactscript.com/wp-content/uploads/2016/07/React.js-Responsive-Carousel.png
+![image](https://github.com/SaiDarshan2003/Image-Carousel/assets/94692595/b81b4ced-820d-4236-9142-d23366f62c9a)
+
 
 
 ## Result:
