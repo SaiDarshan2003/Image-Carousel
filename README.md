@@ -1,4 +1,4 @@
-# Experiment-7 
+# Experiment-15
 
 # Image Carousel in react using hooksAssignment
 
@@ -17,8 +17,9 @@ To create image carousel in react using hooksAssignment.
 5.Edit App.js and enter the HTML code in the return and render.
 
 ## Output:
-![image](https://github.com/SaiDarshan2003/Image-Carousel/assets/94692595/b81b4ced-820d-4236-9142-d23366f62c9a)
 
+
+![244853828-b81b4ced-820d-4236-9142-d23366f62c9a](https://github.com/SaiDarshan2003/Image-Carousel/assets/94692595/22a35b8e-af3f-4513-bef4-ec5b339a967f)
 
 
 ## Result:
